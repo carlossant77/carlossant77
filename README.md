@@ -45,8 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/carlossant77/carlossant77/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">Sobre mim<br>Estudante de desenvolvimento de sistemas no senai, realizo projetos criativos e funcionais para adquirir experiência na área.<br><br>Iniciei  os estudos em 2024, desde então venho estudando e buscando me aprimorar cada vez mais. Com foco maior em back-end, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.<br><br>Até então, os meus principais projetos desenvolvidos foram:<br><br>Sistema de cadastro e consulta de pessoas com API de CEP<br>Jogo de cartas online com servidor em socket.IO<br>Site de investimento com atualização da bolsa em tempo real</p>
