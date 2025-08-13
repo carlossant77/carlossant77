@@ -1,12 +1,12 @@
-# <h2 align="center">Olá, eu sou o José! 👋</h2>
+# <h1 align="center">Olá, eu sou o José! 👋</h1>
 
 ###
 
 # Sobre mim 📚
-Estudante de desenvolvimento de sistemas no senai, realizo projetos criativos e funcionais para adquirir experiência na área.
+Estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
 
 # Trajetória 🚀
-Iniciei  os estudos em 2024, desde então venho estudando e buscando me aprimorar cada vez mais. Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
+Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais. Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
 
 # Projetos Realizados 💻
 Até então, os meus principais projetos desenvolvidos foram:<br><br>Sistema de cadastro e consulta de pessoas com API de CEP<br>Jogo de cartas online com servidor em socket.IO<br>Site de investimento com atualização da bolsa em tempo real</p>
