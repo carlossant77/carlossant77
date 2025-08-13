@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou o José! 👋</h2>
+<h2 align="center">Olá, eu sou o José! 👋</h2>
 
 ###
 
