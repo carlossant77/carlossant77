@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">Sobre mim<br>Estudante de desenvolvimento de sistemas no senai, realizo projetos criativos e funcionais para adquirir experiência na área.<br><br>Iniciei  os estudos em 2024, desde então venho estudando e buscando me aprimorar cada vez mais. Com foco maior em back-end, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.<br><br>Até então, os meus principais projetos desenvolvidos foram:<br><br>Sistema de cadastro e consulta de pessoas com API de CEP<br>Jogo de cartas online com servidor em socket.IO<br>Site de investimento com atualização da bolsa em tempo real</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlossant77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossant77&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -44,9 +48,5 @@
 ###
 
 <br clear="both">
-
-###
-
-<p align="left">Sobre mim<br>Estudante de desenvolvimento de sistemas no senai, realizo projetos criativos e funcionais para adquirir experiência na área.<br><br>Iniciei  os estudos em 2024, desde então venho estudando e buscando me aprimorar cada vez mais. Com foco maior em back-end, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.<br><br>Até então, os meus principais projetos desenvolvidos foram:<br><br>Sistema de cadastro e consulta de pessoas com API de CEP<br>Jogo de cartas online com servidor em socket.IO<br>Site de investimento com atualização da bolsa em tempo real</p>
 
 ###
