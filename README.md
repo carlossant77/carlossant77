@@ -57,9 +57,3 @@ Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema d
   </a>
   </div>
 </div>
-
-###
-
-<br clear="both">
-
-###
