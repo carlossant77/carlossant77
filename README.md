@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Olá, eu sou o José! 👋</h1>
-  <img align="center" height="355" src="https://i.imgflip.com/a367yi.jpg"/>
+  <img align="center" height="355" src="https://i.imgflip.com/a1x6cp.jpg"/>
 </div>
 
 ###
