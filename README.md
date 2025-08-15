@@ -50,7 +50,7 @@ Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema d
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" style="width: 200px; height: auto;" alt="instagram logo" />
     </a>
     <a href="mailto:josesantiag2461@gmail.com?subject=Interesse+Profissional&body=Me+interessei+pelo+seu+perfil+no+github!" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" style="width: 150px; height: auto;" alt="gmail logo" />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" style="width: 145px; height: auto;" alt="gmail logo" />
     </a>
     <a href="https://wa.me/5511958843874?text=Me%20interessei%20pelo%20seu%20perfil%20no%20Github!" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" style="width: 200px; height: auto;" alt="whatsapp logo" />
