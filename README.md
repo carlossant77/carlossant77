@@ -66,7 +66,7 @@ Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema d
 
 > *"O segredo não está em dar grandes saltos, mas em dar pequenos passos com consistência. O caminho do sucesso é moldado por esforços contínuos, e cada pequeno avanço, por menor que pareça, constrói o alicerce para algo grandioso. O progresso é uma construção paciente, onde o presente de hoje prepara as vitórias de amanhã."*
 
-<img src="https://github.com/carlossant77/carlossant77/tree/main/assets/9070324cdfc07c68d60eed0c39e77573.gif" />
+<img src="https://github.com/carlossant77/carlossant77/blob/main/assets/9070324cdfc07c68d60eed0c39e77573.gif" />
 
 ###
 
