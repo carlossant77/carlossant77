@@ -1,5 +1,7 @@
 # <h1 align="center">Olá, eu sou o José! 👋</h1>
 
+<img align="center" height="200" src="https://i.imgflip.com/a1x6cp.jpg"  />
+
 ###
 
 # Sobre mim 📚
@@ -21,7 +23,6 @@ Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema d
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/a1x6cp.jpg"  />
 
 ###
 
