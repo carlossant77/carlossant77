@@ -43,19 +43,20 @@ Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema d
 
 ###
 
-# Onde me encontrar 📌
-<div align="center">
-  <a href="https://www.instagram.com/carlos.sant_7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
-  </a>
-  <a href="josesantiag2461@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
-  </a>
-  <a href="+55 (11) 95884-3874" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="whatsapp logo"  />
-  </a>
+<div align=center>
+  Onde me encontrar 📌
+  <div align="center">
+    <a href="https://www.instagram.com/carlos.sant_7/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="80" alt="instagram logo"  />
+    </a>
+    <a href="josesantiag2461@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="80" alt="gmail logo"  />
+    </a>
+    <a href="+55 (11) 95884-3874" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="80" alt="whatsapp logo"  />
+    </a>
+  </div>
 </div>
-
 ###
 
 <br clear="both">
