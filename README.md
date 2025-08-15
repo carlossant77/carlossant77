@@ -17,14 +17,14 @@ Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema d
 ###
 
 # Minhas Estatísticas 📊
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around;" align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=carlossant77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="162" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossant77&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="162" alt="languages graph"  />
 </div>
 
 ###
 
-# Tecnologias que Utilizo ⚙
+# Ferramentas que Utilizo 🛠
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
