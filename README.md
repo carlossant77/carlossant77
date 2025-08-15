@@ -44,7 +44,7 @@ Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema d
 ###
 
 <div align=center>
-  Onde me encontrar 📌
+  <h1 align=center> Onde me encontrar 📌</h1>
   <div align="center">
     <a href="https://www.instagram.com/carlos.sant_7/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="80" alt="instagram logo"  />
@@ -57,6 +57,7 @@ Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema d
     </a>
   </div>
 </div>
+
 ###
 
 <br clear="both">
