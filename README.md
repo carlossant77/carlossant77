@@ -41,6 +41,8 @@ Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
 </div>
 
+<br clear="both">
+
 ###
 
 <div align=center>
