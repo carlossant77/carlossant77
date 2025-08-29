@@ -6,7 +6,7 @@
 
 <h1 align="left">Sobre mim 📚</h1>
 
-<table height="400">
+<table height="300">
   <tr>
     <td valign="top" width="70%">
       <p>
@@ -16,7 +16,7 @@
       </p>
     </td>
     <td valign="top" width="30%" align="center">
-      <img height="400" src="https://i.imgflip.com/a1x6cp.jpg" alt="Minha foto">
+      <img height="300" src="https://i.imgflip.com/a1x6cp.jpg" alt="Minha foto">
     </td>
   </tr>
 </table>
