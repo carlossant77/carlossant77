@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Olá, eu sou o José! 👋</h1>
-  <img height="355" src="https://i.imgflip.com/a1x6cp.jpg"/>
 </div>
 
 ###
 
 # Sobre mim 📚
-
-Estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
-Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais. Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
-
+<div display="flex>
+  Estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
+  Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais. Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando   sempre as minhas soluções.
+    <img height="355" src="https://i.imgflip.com/a1x6cp.jpg"/>
+</div>
 
 # Projetos Realizados 💻
 Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema de cadastro e consulta de pessoas com API de CEP:** HTML, CSS, Python, Flask<br>**Jogo de cartas online com servidor em socket.IO:** HTML, CSS, Python, JavaScript, Flask, SocketIO<br>**Site de investimento com atualização da bolsa em tempo real:** HTML, CSS, JavaScript, Python, Flask</p>
