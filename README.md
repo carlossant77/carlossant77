@@ -6,7 +6,7 @@
 
 <h1 align="left">Sobre mim 📚</h1>
 
-<table height="400">
+<table height="200">
   <tr>
     <td valign="top" width="70%">
       <p>
