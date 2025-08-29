@@ -6,20 +6,19 @@
 
 <h1 align="left">Sobre mim 📚</h1>
 
-<table height="300">
-  <tr>
-    <td valign="top" width="70%">
-      <p>
-        Estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
-        Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais.
-        Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
-      </p>
-    </td>
-    <td valign="top" width="30%" align="center">
-      <img height="300" src="https://i.imgflip.com/a1x6cp.jpg" alt="Minha foto">
-    </td>
-  </tr>
-</table>
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/a1x6cp.jpg" alt="Minha foto">
+
+###
+
+<p align="left" style="width:75%; text-align:justify;">
+  Estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
+  Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais.
+  Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
+</p>
+
+###
 
 # Projetos Realizados 💻
 Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema de cadastro e consulta de pessoas com API de CEP:** HTML, CSS, Python, Flask<br>**Jogo de cartas online com servidor em socket.IO:** HTML, CSS, Python, JavaScript, Flask, SocketIO<br>**Site de investimento com atualização da bolsa em tempo real:** HTML, CSS, JavaScript, Python, Flask</p>
