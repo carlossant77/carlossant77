@@ -7,8 +7,8 @@
 # Sobre mim 📚
 <div display="flex>
   <p>Estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
-  Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais. Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando   sempre as minhas soluções.</p>
-    <img height="355" src="https://i.imgflip.com/a1x6cp.jpg"/>
+  Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais. Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando   sempre as minhas soluções.<\p>
+  <img height="355" src="https://i.imgflip.com/a1x6cp.jpg"/>
 </div>
 
 # Projetos Realizados 💻
