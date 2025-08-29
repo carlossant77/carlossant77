@@ -6,18 +6,21 @@
 
 <h1 align="left">Sobre mim 📚</h1>
 
-<table>
+<table height="600">
   <tr>
-    <td>
-      Estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
-      Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais.
-      Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
+    <td valign="top" width="70%">
+      <p>
+        Estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
+        Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais.
+        Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
+      </p>
     </td>
-    <td>
-      <img height="2500" src="https://i.imgflip.com/a1x6cp.jpg" alt="Minha foto">
+    <td valign="top" width="30%" align="center">
+      <img height="550" src="https://i.imgflip.com/a1x6cp.jpg" alt="Minha foto">
     </td>
   </tr>
 </table>
+
 
 
 
