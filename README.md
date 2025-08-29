@@ -1,9 +1,3 @@
-<div align="center">
-  <h1>Olá, eu sou o José! 👋</h1>
-</div>
-
-###
-
 <h1 align="left">Sobre mim 📚</h1>
 
 ###
@@ -13,7 +7,7 @@
 ###
 
 <p align="left" style="width:75%; text-align:justify;">
-  Estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
+  Atualmente estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
   Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais.
   Com foco em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
 </p>
