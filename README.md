@@ -5,7 +5,6 @@
 ###
 
 <h1 align="left">Sobre mim 📚</h1>
-<hr>
 
 <table>
   <tr>
