@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="right">Sobre mim 📚</h1>
+<h1 align="left">Sobre mim 📚</h1>
 <hr>
 
 <table>
@@ -15,7 +15,7 @@
       Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
     </td>
     <td>
-      <img height="355" src="https://i.imgflip.com/a1x6cp.jpg" alt="Minha foto">
+      <img height="800" src="https://i.imgflip.com/a1x6cp.jpg" alt="Minha foto">
     </td>
   </tr>
 </table>
