@@ -15,7 +15,12 @@
 <p align="left" style="width:75%; text-align:justify;">
   Estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
   Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais.
-  Com foco maior em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
+  Com foco em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
+</p>
+
+<p align="left" style="width:75%; text-align:justify;">
+  Após realizar uma diversidade de projetos, obtive experiência sólida em desenvolver soluções tanto para back-end, quanto para front-end.
+  Sou familiarizado na utilização de bibliotecas como Flask, Socket.IO, aplicações com Node.js e outras. 
 </p>
 
 ###
