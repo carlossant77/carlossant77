@@ -21,9 +21,6 @@
   </tr>
 </table>
 
-
-
-
 # Projetos Realizados 💻
 Até então, os meus principais projetos desenvolvidos foram:<br><br>**Sistema de cadastro e consulta de pessoas com API de CEP:** HTML, CSS, Python, Flask<br>**Jogo de cartas online com servidor em socket.IO:** HTML, CSS, Python, JavaScript, Flask, SocketIO<br>**Site de investimento com atualização da bolsa em tempo real:** HTML, CSS, JavaScript, Python, Flask</p>
 
