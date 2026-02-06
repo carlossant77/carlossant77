@@ -2,20 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/a1x6cp.jpg" alt="Minha foto">
-
-###
-
-<p align="left" style="width:75%; text-align:justify;">
-  Atualmente estudante de desenvolvimento de sistemas no SENAI, realizo projetos criativos e funcionais para adquirir experiência na área.
-  Iniciei o curso em 2024, desde então venho estudando e buscando me aprimorar cada vez mais.
-  Com foco em aplicações web, desenvolvo projetos simples, mas com um olhar diferente e criativo, aprimorando sempre as minhas soluções.
-</p>
-
-<p align="left" style="width:75%; text-align:justify;">
-  Após realizar uma diversidade de projetos, obtive experiência sólida em desenvolver soluções tanto para back-end, quanto para front-end.
-  Sou familiarizado na utilização de bibliotecas como Flask, Socket.IO, aplicações com Node.js e outras. 
-</p>
+Estudante de Engenharia de Software e técnico em desenvolvimento de sistemas, possuo experiência prática no desenvolvimento web, contendo em portfólio tanto aplicações front-end, quanto back-end.  Tenho familiaridade no desenvolvimento de interfaces web com o uso de HTML e CSS para estruturação, e Javascript para dinamização. Também conhecimentos em Python e Node.js para a criação de API's REST e outros serviços, utilizando os frameworks: FastAPI, Flask e Express como ferramentas.  Tenho também experiência na integração de projetos com banco de dados relacionais e não relacionais, como MySQL, PostgreSQL e MongoDB e conhecimentos em Git e Github para versionamento do código.  Possuo um perfil comprometido, proativo e voltado ao aprendizado, valorizando a busca por novos conhecimentos e facilidade com trabalho em equipe.
 
 ###
 
